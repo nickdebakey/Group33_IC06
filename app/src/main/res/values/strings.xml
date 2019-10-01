@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Group33_IC06</string>
+    <string name="tv_category">Show Categories</string>
+    <string name="btn_select">Select</string>
+    <string name="tv_title">Title</string>
+    <string name="tv_date">Date</string>
+    <string name="tv_description">Description</string>
+    <string name="tv_articleNum">number</string>
+</resources>
